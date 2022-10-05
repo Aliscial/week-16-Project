@@ -42,7 +42,7 @@ export default function About() {
                         <Card.Text>
                             Daily yellow is like the sunrise
                         </Card.Text>
-                        Just as nature is divinely created:so are you!
+                        Just as nature is divinely created. So are you!
 
                     </Card.Body>
                 </Card>
@@ -66,7 +66,7 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Plaid</Card.Title>
                         <Card.Text>
-                            Plaid goes well with jeans. 
+                            Plaid goes well with jeans 
                         </Card.Text>
                         You are a Queen/King!
 
@@ -80,7 +80,7 @@ export default function About() {
                         <Card.Text>
                             If you want to wear print. Do it with confidence!
                         </Card.Text>
-                        Staying in your comfort zone will lead to grief at your expense.
+                        Staying in your comfort zone will lead to grief at your expense
 
                     </Card.Body>
                 </Card>
@@ -92,7 +92,7 @@ export default function About() {
                             Bright colors can inspire creativity
                         </Card.Text>
                         Fashion is a rendition of nature formatted to fit the human form. 
-                        It's self expression. Make loving you the norm!
+                        It is self expression. Make loving you the norm!
 
                     </Card.Body>
                 </Card>
