@@ -17,7 +17,7 @@ export default function About() {
                         <Card.Text>
                             Burnt Orange is here to electrify your soul
                         </Card.Text>
-                        Let's step out of our comfort zone this season!
+                        Let your soul speak sometimes. It has something to say!
 
                     </Card.Body>
                 </Card>
@@ -28,9 +28,9 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Ocean blue</Card.Title>
                         <Card.Text>
-                            Will ocean blue be your signature color this season?
+                            Wear Ocean Blue for a new you!
                         </Card.Text>
-                        Do you feel confident in your fashion choices? Yes or No?
+                        Blue represents tranquility. Remember to worry less and chill more
 
                     </Card.Body>
                 </Card>
@@ -40,9 +40,9 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Daily Yellow</Card.Title>
                         <Card.Text>
-                            Which best fits your style bright colors or wild patterns?
+                            Daily yellow is like the sunrise
                         </Card.Text>
-                        Will you dare to be your best self this fall? Yes or No?
+                        Just as nature is divinely created:so are you!
 
                     </Card.Body>
                 </Card>
@@ -51,9 +51,10 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Houndstooth</Card.Title>
                         <Card.Text>
-                            Would you prefer houndstooth or plaid?
+                            Houndstooth will always find a way to trend
                         </Card.Text>
-                        Do you think that your style is a good representation of who you are? Yes or No?
+                        Remember that you do not have to fit in to win.
+                         You are winning by loving the skin you are in!
 
                     </Card.Body>
                 </Card>
@@ -65,9 +66,9 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Plaid</Card.Title>
                         <Card.Text>
-                            Was plaid featured in this years Fall Couture event?
+                            Plaid goes well with jeans. 
                         </Card.Text>
-                        Does plaid make you feel more trendy? Yes or No?
+                        You are a Queen/King!
 
                     </Card.Body>
                 </Card>
@@ -77,9 +78,9 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Zebra Print</Card.Title>
                         <Card.Text>
-                            Does animal print peak your interest?
+                            If you want to wear print. Do it with confidence!
                         </Card.Text>
-                        Will you dare to be bold this fall? Yes or No?
+                        Staying in your comfort zone will lead to grief at your expense.
 
                     </Card.Body>
                 </Card>
@@ -88,9 +89,10 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Hot pink</Card.Title>
                         <Card.Text>
-                            Do you think bright colors inspire creativity?
+                            Bright colors can inspire creativity
                         </Card.Text>
-                        Is fashion a rendition of nature formatted to fit the human form? Yes or No?
+                        Fashion is a rendition of nature formatted to fit the human form. 
+                        It's self expression. Make loving you the norm!
 
                     </Card.Body>
                 </Card>
