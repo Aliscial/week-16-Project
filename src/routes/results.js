@@ -11,7 +11,9 @@ function AdditionalContentExample() {
             </p>
             <p>
                 Fall and winter can be considered gloomy seasons.
-                This years fashion enthusiast/runway Directors decided to brighten things up. Colors like hot pink, ocean blue and burnt orange are trending. “Taste the rainbow,” one might say, once they see this years runway worthy colors.
+                This years fashion enthusiast/runway Directors decided to brighten things up.
+                 Colors like hot pink, ocean blue and burnt orange are trending.
+                  “Taste the rainbow,” one might say, once they see this years runway worthy colors.
             </p>
             <p>
                 This year's colors tend to "reflect the natural environment around us,
@@ -97,8 +99,7 @@ function AdditionalContentExample() {
 
             <hr />
             <p className="mb-0">
-                Whenever you need to, be sure to use margin utilities to keep things
-                nice and tidy.
+                Thanks for checking out the latest trends! Now go be your Beautiful self!
             </p>
         </Alert>
     );
