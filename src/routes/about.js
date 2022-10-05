@@ -1,4 +1,3 @@
-
 import Row from "react-bootstrap/Row"
 import Card from 'react-bootstrap/Card';
 import Col from "react-bootstrap/Col"
@@ -54,7 +53,7 @@ export default function About() {
                             Houndstooth will always find a way to trend
                         </Card.Text>
                         Remember that you do not have to fit in to win.
-                         You are winning by loving the skin you are in!
+                        You are winning by loving the skin you are in!
 
                     </Card.Body>
                 </Card>
@@ -66,7 +65,7 @@ export default function About() {
                     <Card.Body>
                         <Card.Title>Plaid</Card.Title>
                         <Card.Text>
-                            Plaid goes well with jeans 
+                            Plaid goes well with jeans
                         </Card.Text>
                         You are a Queen/King!
 
@@ -91,7 +90,7 @@ export default function About() {
                         <Card.Text>
                             Bright colors can inspire creativity
                         </Card.Text>
-                        Fashion is a rendition of nature formatted to fit the human form. 
+                        Fashion is a rendition of nature formatted to fit the human form.
                         It is self expression. Make loving you the norm!
 
                     </Card.Body>

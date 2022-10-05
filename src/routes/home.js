@@ -31,7 +31,7 @@ class App extends React.Component {
     addNote(e) {
         this.setState({
             list: [...this.state.list, this.state.newNote],
-            newNote: '',
+            newNote: 'What Outfit Would You Pick?',
         });
     }
     editNote(e, index) {
